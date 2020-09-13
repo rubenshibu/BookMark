@@ -17,10 +17,9 @@ class _LandingPageState extends State<LandingPage> {
           FlatButton(
             onPressed: () {},
             child: Text('Skip'),
-            hoverColor: Colors.white24,
-            shape: StadiumBorder(),
+            // shape: StadiumBorder(),
             color: Colors.amber[300],
-            textColor: Colors.white,
+            textColor: Colors.black,
           ),
         ],
       ),
