@@ -1,5 +1,5 @@
 class Constants{
-  static const String SLIDER_HEADING_1 = "Convineint use";
+  static const String SLIDER_HEADING_1 = "Convenient use";
   static const String SLIDER_HEADING_2 = "Online listening";
   static const String SLIDER_HEADING_3 = "It's Just the Beginning";
   static const String SLIDER_DESC_1 = "Everything for comfortable\n reading of your favorite \nbook";
