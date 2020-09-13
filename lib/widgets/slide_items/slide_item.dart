@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 // import 'package:slider_app/constants/constants.dart';
-import 'package:slider_app/model/slider.dart';
+import 'package:BookMark/model/slider.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 
@@ -13,12 +13,12 @@ class SlideItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
       backgroundColor: Colors.amber[300],
       body: Padding(
         padding: const EdgeInsets.all(20.0),
         child: SafeArea(child: Center(
-          child: Column(
+          child:
+          Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               SvgPicture.asset(sliderArrayList[index].sliderImageUrl,

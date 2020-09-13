@@ -1,10 +1,10 @@
 import 'dart:async';
 
 import 'package:flutter/cupertino.dart';
-import 'package:slider_app/constants/constants.dart';
-import 'package:flutter_onboarding_ui_concept/model/slider.dart';
-import 'package:slider_app/widgets/slide_dots.dart';
-import 'package:flutter_onboarding_ui_concept/widgets/slide_items/slide_item.dart';
+import 'package:BookMark/constants/constants.dart';
+import 'package:BookMark/model/slider.dart';
+import 'package:BookMark/widgets/slide_dots.dart';
+import 'package:BookMark/widgets/slide_items/slide_item.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 

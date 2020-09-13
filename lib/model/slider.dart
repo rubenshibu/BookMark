@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:slider_app/constants/constants.dart';
+import 'package:BookMark/constants/constants.dart';
 class Slider {
   final String sliderImageUrl;
   final String sliderHeading;

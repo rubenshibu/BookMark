@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:slider_app/screens/landing_page.dart';
+import 'package:BookMark/screens/landing_page.dart';
 
 void main() => runApp(MyApp());
 
@@ -28,5 +28,4 @@ class MyApp extends StatelessWidget{
       home: LandingPage(),
     );
   }
-
 }
